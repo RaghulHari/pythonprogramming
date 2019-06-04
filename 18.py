@@ -5,7 +5,7 @@ for i in a:
     l.append(int(i))
 n=int(l[0])
 m=int(l[1])
-for num in range(n,m+1):
+for num in range(n,m):
     order=len(str(num))
     s=0
     temp=num
