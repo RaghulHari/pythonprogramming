@@ -5,6 +5,6 @@ if(n==0):
 elif(n<=1):
     print("1")
 else:
-    for i in range(0,n+1):
+    for i in range(1,n+1):
         ft=ft*i
     print(ft)
