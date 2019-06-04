@@ -1,7 +1,7 @@
 n=int(input())
 ft=1
 if(n==0):
-    print("Invalid")
+    print("1")
 elif(n<=1):
     print("1")
 else:
