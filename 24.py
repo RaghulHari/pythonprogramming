@@ -1,0 +1,5 @@
+m=int(input())
+n=input()
+n=n.split()
+n.sort()
+print(*n,sep=" ")
