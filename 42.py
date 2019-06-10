@@ -1,0 +1,12 @@
+n=input()
+n=n.split()
+a=n[0]
+b=n[1]
+c=len(a)
+d=len(b)
+if(c>d):
+    print(a)
+elif(c==d):
+    print(b)
+else:
+    print(b)
