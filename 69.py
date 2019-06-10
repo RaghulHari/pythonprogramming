@@ -1,0 +1,10 @@
+n=input()
+n=n.split()
+n=list(map(int,n))
+m=int(n[0])
+y=int(n[1])
+b=m-y
+if(b%2==0):
+    print("even")
+else:
+    print("odd")
