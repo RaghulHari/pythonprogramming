@@ -1,0 +1,21 @@
+p=int(input())
+if(p==1):
+    print("One")
+elif(p==2):
+    print("Two")
+elif(p==3):
+    print("Three")
+elif(p==4):
+    print("Four")
+elif(p==5):
+    print("Five")
+elif(p==6):
+    print("Six")
+elif(p==7):
+    print("Seven")
+elif(p==8):
+    print("Eight")
+elif(p==9):
+    print("Nine")
+else:
+    print("Ten")
