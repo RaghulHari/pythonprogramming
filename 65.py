@@ -1,2 +1,2 @@
-v=input()
-print(v)
+ann=input()
+print(ann)
