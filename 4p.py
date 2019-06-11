@@ -1,0 +1,2 @@
+hhh=input()
+print(hhh+'.')
