@@ -1,4 +1,4 @@
-mm=int(input())
+mmm=int(input())
 nn=input()
 nn=nn.split()
 nn.sort()
