@@ -1,0 +1,5 @@
+a=int(input())
+cc=input()
+cc=cc.split()
+cc=list(map(int,cc))
+print(max(cc))
