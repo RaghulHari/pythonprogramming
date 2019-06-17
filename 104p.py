@@ -1,10 +1,10 @@
 n=int(input())
-s=input()
-s=s.split()
-s=list(map(int,s))
-print(s)
+ss=input()
+ss=ss.split()
+ss=list(map(int,ss))
+
 l=[]
-for i in s:
+for i in ss:
     l.append(i)
 s1=0
 
