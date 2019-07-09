@@ -1,0 +1,11 @@
+n=input()
+n=n.split()
+m=input()
+m=m.split()
+p=input()
+p=p.split()
+y=sorted(m)
+r=sorted(p)
+t=y+r
+c=sorted(t)
+print(*c,sep=" ")
