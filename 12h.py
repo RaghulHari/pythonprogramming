@@ -1,0 +1,9 @@
+n=input()
+n=n.split()
+k=int(n[1])
+m=input()
+m=m.split()
+o=sorted(m)
+j=o[::-1]
+h=j[k-1]
+print(h)
